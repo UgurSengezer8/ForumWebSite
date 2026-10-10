@@ -1,0 +1,14 @@
+:root {
+  --primary: #ff7361;
+  --topbar:#2f3239;
+  
+}
+.top-secion{
+    background-color: var(--primary);
+}
+.searchButton{
+  background-color: #af4132;
+}
+.topbar{
+  background-color: var(--topbar);
+}
